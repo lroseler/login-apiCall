@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  background-color: white;
+  color: rgb(45, 45, 110);
+  font-family: HFS Lato,arial,helvetica,sans-serif;
+
+}
+
+.App-logo {
+  height: 100px;
+  width: 300px;
+}
+
+.App-header {
+  background-color: white;
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+
